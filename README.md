@@ -1,7 +1,7 @@
 # Macine_learning_projects
 **Project_01: Breast cancer prediction**<br>
 Based on the different dimensions of breast model able to predict the type breast cances , by using Random forest machine learning algorithms and Hyperparameter tuning done by GridSearchCv<br>
-**key skills: ** EDA, Random forest, Hyperparameter tuning<br>
+**key skills:  EDA, Random forest, Hyperparameter tuning**<br>
 
 
 **Project_02:Car price prediction**<br>
